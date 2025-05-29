@@ -133,4 +133,4 @@ Refresh manual necessário após logout Validação de email poderia ser mais ro
 
 📞 Contato Desenvolvedor: [Guilherme Rossi dos Santos e Pedro Vasconcelos]
 
-Email: guilherme.santos9@uscsonline.com.br
+Email: guilherme.santos9@uscsonline.com.br e pedro.contessotto@uscsonline.com.br
