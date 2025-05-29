@@ -1,0 +1,180 @@
+{
+  "menu": [
+    {
+      "id": "1",
+      "nome": "Café Expresso",
+      "preco": 5.5,
+      "imagem": "imagens/cafe-expresso.jpg",
+      "descricao": "Um café forte e aromático, preparando voce para començar bem seu dia!"
+    },
+    {
+      "id": "2",
+      "nome": "Cappucino",
+      "preco": 8.6,
+      "imagem": "imagens/cappuccino.jpg",
+      "descricao": "Delicioso cappuccino com espuma de leite e toque de chocolate."
+    },
+    {
+      "id": "3",
+      "nome": "Sanduiche Natural",
+      "preco": 8.5,
+      "imagem": "imagens/sanduiche-natural.jpg",
+      "descricao": "Sanduíche leve e saudavel com peito de peru, queijo branco e vegetais frescos."
+    },
+    {
+      "id": "4",
+      "nome": "Suco de Laranja",
+      "preco": 6,
+      "imagem": "imagens/suco-laranja.jpg",
+      "descricao": "Suco natural de laranja, feito na hora, rico em vitamina C."
+    },
+    {
+      "id": "5",
+      "nome": "Bolo de Chocolate",
+      "preco": 4.8,
+      "imagem": "imagens/bolo-chocolate.jpg",
+      "descricao": "Fatia de bolo de chocolate acio, perfeito para acompanhar seu café."
+    },
+    {
+      "id": "6",
+      "nome": "Torrada com manteiga",
+      "preco": 5.5,
+      "imagem": "imagens/torrada-manteiga.jpg",
+      "descricao": "Torrada feita com pão italiano de primeira linha. Irresistivel."
+    }
+  ],
+  "cadastros": [
+    {
+      "id": "e6q4",
+      "nome": "Guilherme",
+      "email": "teste123@gmail.com",
+      "senha": "Teste123"
+    }
+  ],
+  "pedidos": [
+    {
+      "id": "k6ax",
+      "usuarioId": "pnx6",
+      "data": "2025-04-10T01:52:56.410Z",
+      "status": "Feito",
+      "itens": [
+        {
+          "id": 2,
+          "nome": "Cappucino",
+          "preco": "8.6",
+          "quantidade": 1
+        },
+        {
+          "id": 3,
+          "nome": "Sanduiche Natural",
+          "preco": "8.5",
+          "quantidade": 1
+        },
+        {
+          "id": 6,
+          "nome": "Torrada com manteiga",
+          "preco": "5.5",
+          "quantidade": 1
+        },
+        {
+          "id": 5,
+          "nome": "Bolo de Chocolate",
+          "preco": "4.8",
+          "quantidade": 1
+        }
+      ]
+    },
+    {
+      "id": "qc6v",
+      "usuarioId": "pnx6",
+      "data": "2025-04-15T00:01:51.480Z",
+      "status": "Feito",
+      "itens": [
+        {
+          "id": 5,
+          "nome": "Bolo de Chocolate",
+          "preco": "4.8",
+          "quantidade": 1
+        },
+        {
+          "id": 6,
+          "nome": "Torrada com manteiga",
+          "preco": "5.5",
+          "quantidade": 1
+        },
+        {
+          "id": 4,
+          "nome": "Suco de Laranja",
+          "preco": "6",
+          "quantidade": 2
+        }
+      ]
+    },
+    {
+      "id": "qjle",
+      "usuarioId": "nxwi",
+      "data": "2025-05-26T20:45:39.407Z",
+      "status": "Feito",
+      "itens": [
+        {
+          "id": 5,
+          "nome": "Bolo de Chocolate",
+          "preco": "4.8",
+          "quantidade": 1
+        },
+        {
+          "id": 4,
+          "nome": "Suco de Laranja",
+          "preco": "6",
+          "quantidade": 4
+        }
+      ]
+    },
+    {
+      "id": "0g7u",
+      "usuarioId": "e6q4",
+      "data": "2025-05-29T00:07:48.401Z",
+      "status": "Feito",
+      "itens": [
+        {
+          "id": 5,
+          "nome": "Bolo de Chocolate",
+          "preco": 4.8,
+          "quantidade": 1
+        },
+        {
+          "id": 4,
+          "nome": "Suco de Laranja",
+          "preco": 6,
+          "quantidade": 1
+        }
+      ]
+    },
+    {
+      "id": "i554",
+      "usuarioId": "e6q4",
+      "data": "2025-05-29T00:11:16.730Z",
+      "status": "Feito",
+      "itens": [
+        {
+          "id": 6,
+          "nome": "Torrada com manteiga",
+          "preco": 5.5,
+          "quantidade": 1
+        },
+        {
+          "id": 5,
+          "nome": "Bolo de Chocolate",
+          "preco": 4.8,
+          "quantidade": 1
+        },
+        {
+          "id": 4,
+          "nome": "Suco de Laranja",
+          "preco": 6,
+          "quantidade": 1
+        }
+      ]
+    }
+  ]
+}
