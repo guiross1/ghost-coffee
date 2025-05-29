@@ -234,4 +234,4 @@ Melhorias Técnicas
 📞 Contato
 Desenvolvedor: [Guilherme Rossi dos Santos e Pedro Vasconcelos]
 
-Email: guilherme.santos9@uscsonline.com.br 
+Email: guilherme.santos9@uscsonline.com.br e pedro.contessotto@uscsonline.com.br
